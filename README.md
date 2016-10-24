@@ -1,10 +1,7 @@
-# blorgh
-Python static site generator (Markdown -> HTML) from a Git repo
-
 Blorgh
 ======
 
-Blorgh requires Markdown to blawg.
+Blorgh requires Markdown files to blawg.
 
 ## Installation
 ```
